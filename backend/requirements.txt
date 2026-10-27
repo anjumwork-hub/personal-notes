@@ -1,0 +1,10 @@
+# ==============================================================================
+# LAYER: Backend Dependencies (Version-Pinned Requirements)
+# Description: Specifies exact versions of Python dependencies required to run
+#              the FastAPI backend and SQLAlchemy 2.0 ORM with SQLite.
+# ==============================================================================
+
+fastapi==0.162.0
+uvicorn==0.54.0
+sqlalchemy==2.1.6
+pydantic==2.14.1
